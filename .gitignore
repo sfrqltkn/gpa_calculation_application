@@ -45,6 +45,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/windows/runner
+/android/flutter
 
 **calculate-2.gif
 **calculate-3.gif
